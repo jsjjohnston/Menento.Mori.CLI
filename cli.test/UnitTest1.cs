@@ -1,3 +1,5 @@
+using Microsoft.VisualStudio.TestPlatform.TestHost;
+
 namespace cli.test
 {
     [TestClass]
@@ -6,6 +8,7 @@ namespace cli.test
         [TestMethod]
         public void TestMethod1()
         {
+            var classundertest = new Program();
         }
     }
 }

@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cli", "cli\cli.csproj", "{5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "core", "core\core.csproj", "{6B0603B0-C01D-4167-9AC8-6FB1F7CBC20F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "application", "application\application.csproj", "{2EC8E1D9-96CB-44F5-96C7-ED90E44A5BDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "application\Application.csproj", "{2EC8E1D9-96CB-44F5-96C7-ED90E44A5BDA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "infrastructure", "infrastructure\infrastructure.csproj", "{83CE0413-2B95-4481-82B4-1EE1BDDF4134}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "infrastructure\Infrastructure.csproj", "{83CE0413-2B95-4481-82B4-1EE1BDDF4134}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cli.test", "cli.test\cli.test.csproj", "{94E08908-F78E-4BBD-B1FE-99AB8049CD60}"
 EndProject
@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core.test", "core.test\core
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "application.test", "application.test\application.test.csproj", "{049E42CB-715B-4E80-BBCB-00473B51AAF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infrastructure.test", "infrastructure.test\infrastructure.test.csproj", "{5FBC6CF1-374B-40E9-A894-B22D730C0C66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Test", "infrastructure.test\Infrastructure.Test.csproj", "{5FBC6CF1-374B-40E9-A894-B22D730C0C66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

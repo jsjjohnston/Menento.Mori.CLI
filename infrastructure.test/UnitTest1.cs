@@ -1,4 +1,4 @@
-namespace infrastructure.test
+namespace Infrastructure.test
 {
     [TestClass]
     public class UnitTest1
